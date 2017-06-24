@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B0E7-B7D7
+
+ Directory of C:\Users\preethika\Desktop\New folder
+
+24-06-2017  00:55    <DIR>          .
+24-06-2017  00:55    <DIR>          ..
+24-06-2017  00:21               398 index.html
+24-06-2017  00:07               350 test1.txt
+24-06-2017  00:46               445 test2.txt
+24-06-2017  00:55                 0 test3.txt
+               4 File(s)          1,193 bytes
+               2 Dir(s)  485,929,717,760 bytes free
